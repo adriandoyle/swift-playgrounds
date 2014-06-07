@@ -3,7 +3,9 @@
 By [Adrian Doyle](http://about.me/adriandoyle).
 
 ## Description
-**swift-playgrounds** description can be listed here.
+**swift-playgrounds** are a collection of playgrounds on Apple's Swift programming language.
+
+Clone or download this repository and open the .playground file in Xcode6-Beta.
 
 ### Known Issues
 
